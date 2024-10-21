@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects that leverage my skills in Game and XR development.
 - 📫 You can reach me through the following channels:
 - Email: ansuman.placement7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ansuman-hemant-69874024b/
+- LinkedIn: www.linkedin.com/in/ansuman-hemant
 
 <!---
 Ansuman-Hemant/Ansuman-Hemant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
