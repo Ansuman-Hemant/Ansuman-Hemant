@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on exciting projects that leverage my skills in Game and XR development.
 - 📫 You can reach me through the following channels:
-- Email: ansuman.hemant@gmail.com
+- Email: ansuman.placement7@gmail.com
 - LinkedIn: www.linkedin.com/in/ansuman-hemant
 
 <!---
