@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ansuman-Hemant
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on exciting projects that leverage my skills in Game and XR development.
+- 👀 I’m an XR Developer
+- 🌱 "I don't just use Unity, I push it beyond its limits. With expert-level C# and an obsession with clean architecture, I build interactive experiences that perform and scale.
+- 💞️ I’m looking to collaborate on exciting projects that leverage my Game and XR development skills.
 - 📫 You can reach me through the following channels:
 - Email: ansuman.placement7@gmail.com
 - LinkedIn: www.linkedin.com/in/ansuman-hemant
